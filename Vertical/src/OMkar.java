@@ -6,4 +6,7 @@ public class OMkar {
 		System.out.println("Omkar");
 	}
 
+	public static void sarang(){
+		System.out.println("Sarang");
+	}
 }
