@@ -12,4 +12,7 @@ public class OMkar {
 		System.out.println("in vijay");
 	}
 
+	public static void sarang(){
+		System.out.println("Sarang");
+	}
 }
